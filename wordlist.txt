@@ -1,0 +1,51 @@
+# Tiny demo wordlist for crypto_demo.py (weak-cipher cracking practice).
+# One candidate password per line. Blank lines and #comments are ignored.
+# The demo secret's password ("hunter2") is included below so the crack
+# succeeds. Swap this file for a real list (e.g. rockyou.txt) to go bigger.
+123456
+password
+123456789
+12345678
+12345
+qwerty
+abc123
+football
+monkey
+letmein
+dragon
+111111
+baseball
+iloveyou
+master
+sunshine
+ashley
+bailey
+passw0rd
+shadow
+123123
+654321
+superman
+qazwsx
+michael
+Football
+welcome
+jesus
+ninja
+mustang
+password1
+admin
+root
+toor
+changeme
+trustno1
+whatever
+starwars
+hunter2
+zxcvbn
+login
+princess
+solo
+flower
+hottie
+loveme
+zaq1zaq1

@@ -152,4 +152,3 @@ The weak scheme is intentionally breakable (cheap tunable KDF + unauthenticated 
 known-plaintext canary). Use it to learn how key stretching raises attack cost — never for
 anything real. For real work, use the strong functions, or the even simpler
 `cryptography.fernet.Fernet` recipe if you don't need AES-256 specifically.
-# crypto-learning
